@@ -230,7 +230,7 @@ export const portfolioData = {
   social: {
     email: 'ledezmacastrodaniel@email.com',
     whatsapp: 'https://wa.me/59172729907',
-    linkedin: 'www.linkedin.com/in/daniel-ledezma-castro-261337261',
+    linkedin: 'https://www.linkedin.com/in/daniel-ledezma-castro-261337261/',
     github: 'https://github.com/dalitoled',
   },
 }
