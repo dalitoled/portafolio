@@ -5,7 +5,7 @@ export const portfolioData = {
     subtitle: 'Desarrollador Full Stack | Automatización | Inteligencia Artificial | Ciberseguridad | Soluciones Tecnológicas',
     description: 'Ingeniero de Sistemas con más de 3 años de experiencia transformando ideas en soluciones digitales de alto impacto. Especializado en desarrollo web full stack, aplicaciones móviles, automatización de procesos e inteligencia artificial. Apasionado por crear sistemas robustos y escalables que optimizan operaciones y potencian el crecimiento empresarial.',
     email: 'ledezmacastrodaniel@gmail.com',
-    location: 'Bolivia',
+    location: 'Antofagasta, Chile',
     phone: '+591 72729907',
     cvUrl: 'https://drive.google.com/drive/folders/1NQTeTIZR0WnTg78paEnhbFmx1rwPUzVu?usp=drive_link',
   },
@@ -228,9 +228,9 @@ export const portfolioData = {
     
   ],
   social: {
-    email: 'ledezmacastrodaniel@email.com',
+    email: 'ledezmacastrodaniel@gmail.com',
     whatsapp: 'https://wa.me/59172729907',
-    linkedin: 'https://www.linkedin.com/in/daniel-ledezma-castro-261337261/',
+    linkedin: 'https://www.linkedin.com/in/daniel-ledezma-castro',
     github: 'https://github.com/dalitoled',
   },
 }
