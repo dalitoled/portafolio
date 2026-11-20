@@ -48,6 +48,9 @@ export default function Hero() {
             >
               <a
                 href={personal.cvUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                download="CV_Daniel_Ledezma_Castro.pdf"
                 className="glow-button inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-cyan to-electric text-white font-medium text-sm relative z-10 cursor-pointer"
               >
                 <Download size={18} />

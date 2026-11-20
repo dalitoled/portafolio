@@ -137,7 +137,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-xs text-muted">WhatsApp</p>
-                  <p className="text-sm text-light group-hover:text-emerald-400 transition-colors">Escribirme</p>
+                  <p className="text-sm text-light group-hover:text-emerald-400 transition-colors">+56 9 30030377</p>
                 </div>
               </a>
 
